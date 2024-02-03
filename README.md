@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://www.codewars.com/users/balintvagyok1/badges/small
 
 <!--
 **sbalint1/sbalint1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

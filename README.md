@@ -1,7 +1,7 @@
 ### 
 <img src="https://www.codewars.com/users/balintvagyok1/badges/large">
 https://www.codewars.com/users/balintvagyok1/badges/large
-  <svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
+  < img src=svg width="400" height="40" viewBox="0 0 400 40" xmlns="http://www.w3.org/2000/svg">
     <path fill="#303133" d="M11.547 40L0 20 11.547 0h360.467v40z"/>
     <text fill="#E8E8E8" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" x="77" y="27">balintvagyok1</text>
     <path fill="#1D1D1F" d="M294.547 40L283 20l11.547-20h93.906L400 20l-11.547 20z"/>

@@ -9,4 +9,4 @@
     <path fill="#141414" d="M36.51 17.36L40.606 10 36.51 2.64H7.05L2.951 10l4.097 7.36z"/>
     <path fill="#ECB613" d="M6.196 19L1 10l5.196-9h31.177l5.196 9-5.196 9H6.196zm29.966-2.078l4-6.922-4-6.922H7.397l-4 6.922 4 6.922h28.765z" />
   </svg>--> 
-<img src="https://www.codewars.com/users/balintvagyok1/badges/large">
+<!---<img src="https://www.codewars.com/users/balintvagyok1/badges/large">-->

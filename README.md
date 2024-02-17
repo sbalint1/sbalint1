@@ -2,7 +2,7 @@
 <img src="https://www.codewars.com/users/balintvagyok1/badges/large">
 ![badge](https://github.com/sbalint1/sbalint1/assets/146454945/8ccce68b-a5da-4864-b9a2-0e47327d3b8a)  <svg width="300" height="20" viewBox="0 0 300 20" xmlns="http://www.w3.org/2000/svg">
     <path fill="#303133" d="M5.774 20L0 10 5.774 0h278.452v20z"/>
-    <text fill="#E8E8E8" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" x="47" y="15">balintvagyok1</text>
+    <text fill="#E8E8E8" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" x="47" y="15"></text>
     <path fill="#303133" d="M190 0h50v20h-50z"/>
     <path fill="#1D1D1F" d="M238.774 20L233 10l5.774-10h55.452L300 10l-5.774 10z"/>
     <text fill="#AAA" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" x="228" y="14" text-anchor="end">130</text>

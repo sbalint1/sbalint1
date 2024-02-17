@@ -11,9 +11,6 @@
     <text fill="#ECB613" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" x="20" y="12" text-anchor="middle" transform="translate(1 1)"></text>
     <path fill="#ECB613" d="M6.196 19L1 10l5.196-9h31.177l5.196 9-5.196 9H6.196zm29.966-2.078l4-6.922-4-6.922H7.397l-4 6.922 4 6.922h28.765z" />
   </svg>
-**sbalint1/sbalint1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Java skills
 - 🌱 I’m currently learning Java backend
